@@ -1,0 +1,27 @@
+Employee_Database Analysis 
+
+The purpose of the new analysis is well defined.
+    In this analysis, Bobby was tasked to determine the number of retiring employees per title, and identify employees who are eligible to participate in a mentorship program. Lastly, you'll summarize your analysis and this will help the manager for the "silver tsunami" when employees reach the retirement age.
+    
+
+There is a bulleted list with four major points from the two analysis deliverables. (6 pt)
+      
+      32,452 Staff
+      29,415 Senior Engineer
+      14,221 Engineer
+      8,047 Senior Staff
+      4,502 Technique Leader
+      1,761 Assistant Engineer  
+
+
+
+
+
+
+The summary addresses the two questions and contains two additional queries or tables that may provide more insight. (5 pt)
+
+    How many roles will need to be filled as the "silver tsunami" begins to make an impact?
+        90,398 roles are in need to be filled out when the workforce starts retiring at any time.
+
+    Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+        No their is not enough employees qualified. there are only 1,940 employees who are eligible to participate in a mentorship program. 
